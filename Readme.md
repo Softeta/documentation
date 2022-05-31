@@ -23,7 +23,7 @@ Could haves
 - **ADR (Architecture Decision Records)**. In Readme.md or Confluence. Simple structure describing decision and motivation.
 - **BPM (Business process model)**. In Readme.md or Confluence. Provided by Business Analys, Product Owner or Domain expert.
 - **Stakeholders**. Teams and members working on the project, project managers, clients, customers.
-- **RFC (Request for comments)**. In separate document - repor or Confluence or agreed place.
+- **RFC (Request for comments)**. In separate document - repo or Confluence or agreed place.
 
 ## How we document
 
