@@ -7,7 +7,7 @@ The main purposes of documentation are - easier onboarding of the new team membe
 
 ## What we document
 
-Following documentation artifacts are useful:
+Our main purpose remain for documentation to be useful and not to adhere any managerial processes.
 
 Must haves (for Softeta fully owned projects)
 
