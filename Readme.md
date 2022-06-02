@@ -39,7 +39,7 @@ For larger technical documentation we use confluence for ease of editing diagram
 
 ### Examples
 
-[Softeta Self Service (Authenticated)] (https://github.com/Softeta/self-service-cms)
+[Softeta Self Service - Authenticated](https://github.com/Softeta/self-service-cms)
 [Microsoft eShop On Containers](https://github.com/dotnet-architecture/eShopOnContainers)
 [PerformanceMonitor](https://github.com/dotnet-architecture/PerformanceMonitor)
 
